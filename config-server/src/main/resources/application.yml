@@ -1,0 +1,14 @@
+server:
+  port: 6688
+
+spring:
+  application:
+    name: config-server # server package name
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/YifengGuo/config-server-git
+          # search-paths:
+          username: gyf940517@gmail.com
+          password: FFloveXX517218
