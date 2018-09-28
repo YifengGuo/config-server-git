@@ -11,5 +11,5 @@ spring:
           uri: https://github.com/YifengGuo/config-repo
 #          search-paths: /project1
           username: gyf940517@gmail.com
-          password: FFloveXX517218
+          password: 
           label: master
